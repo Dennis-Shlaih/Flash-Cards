@@ -36,9 +36,9 @@ GIF created with Microsoft Clipchamp
 
 ## Challenges
 
-- [X] Managing the state of the flashcards, such as the flashcards themselves, the current card index, and the display of questions and answers.
-- [X] Maintaining a proper row format while ensuring event cards wrap correctly on different screen sizes.
-- [X] Creating visually appealing and responsive CSS styles for the flashcards, including implementing a smooth flip animation when the card is clicked.
+- [X] Managing the state of the flashcards, such as the flashcards themselves, the current card index, and the display of questions and answers
+- [X] Maintaining a proper row format while ensuring event cards wrap correctly on different screen sizes
+- [X] Creating visually appealing and responsive CSS styles for the flashcards, including implementing a smooth flip animation when the card is clicked
 
 ## License
 
